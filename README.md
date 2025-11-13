@@ -74,16 +74,7 @@ Calculator closed. Goodbye!
 
 ---
 
-## 🔮 Future Enhancements  
-- Add power (`^`) and square root (`√`) operations  
-- Support for multiple continuous calculations without restart  
-- Enhanced error handling for invalid inputs  
-- Colorful console output for a better user experience  
-
----
-
 ## 👨‍💻 Author  
-**Name:** Your Name  
-**Internship:** Virtual Internship Program  
-**Language Used:** Java  
+**Name:** Pranjal Bhatt   
+**Language Used:** Java 
 **Date:** November 2025  
